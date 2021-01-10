@@ -1,0 +1,33 @@
+.bgcolor{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+width: 100%;
+height: 45rem;
+
+}
+.bgcolor1{
+    background-color: slateblue;
+    color: white;
+    width: 70px;
+    border: 1px solid white;
+    text-align: center;
+    margin-right: 1.5rem;
+}
+.bgcolor2{
+    background-color: pink;
+    color: white;
+    width: 65px;
+    border: 1px solid white;
+    text-align: center;
+    margin-right: 1.5rem;
+}
+.bgcolor3{
+    background-color: purple;
+    color: white;
+    width: 65px;
+    border: 1px solid white;
+    text-align: center;
+    margin-right: 1.5rem;
+}
