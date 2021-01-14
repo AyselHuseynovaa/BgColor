@@ -1,0 +1,26 @@
+.AppContainer{
+    margin-left: 30rem;
+    display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #ddbea9;
+
+width: 350px;
+height: 500px;
+margin-top: 2rem;
+padding-bottom: 4rem;
+
+}
+.Form{
+display: flex;
+
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+input,select,button{
+    width: 200px;
+}
+

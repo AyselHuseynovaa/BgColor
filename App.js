@@ -2,14 +2,14 @@
 // import './App.css';
 
 import React, { Component } from "react";
-import BgColor from "./BgColor";
+import FormList from "./FormList";
 
 
 class App extends Component {
   render() {
     return (
       <div>
-        <BgColor/>
+        <FormList/>
       </div>
     )
   }
